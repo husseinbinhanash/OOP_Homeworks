@@ -1,0 +1,15 @@
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.AssemblyInfoInputs.cache
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.AssemblyInfo.cs
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.csproj.CoreCompileInputs.cache
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\bin\Debug\net10.0\Shape Areas.exe
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\bin\Debug\net10.0\Shape Areas.deps.json
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\bin\Debug\net10.0\Shape Areas.runtimeconfig.json
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\bin\Debug\net10.0\Shape Areas.dll
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\bin\Debug\net10.0\Shape Areas.pdb
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.dll
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\refint\Shape Areas.dll
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.pdb
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Areas.genruntimeconfig.cache
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\ref\Shape Areas.dll
+C:\Users\h9a9h9 haha\Desktop\Shape Areas\Shape Areas\obj\Debug\net10.0\Shape Ar.3621DA67.Up2Date

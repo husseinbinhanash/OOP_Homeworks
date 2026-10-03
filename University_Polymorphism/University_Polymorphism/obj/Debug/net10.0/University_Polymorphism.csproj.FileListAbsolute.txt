@@ -1,0 +1,15 @@
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\bin\Debug\net10.0\University_Polymorphism.exe
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\bin\Debug\net10.0\University_Polymorphism.deps.json
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\bin\Debug\net10.0\University_Polymorphism.runtimeconfig.json
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\bin\Debug\net10.0\University_Polymorphism.dll
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\bin\Debug\net10.0\University_Polymorphism.pdb
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.AssemblyInfo.cs
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.dll
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\refint\University_Polymorphism.dll
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.pdb
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\University_Polymorphism.genruntimeconfig.cache
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\ref\University_Polymorphism.dll
+C:\Users\h9a9h9 haha\Desktop\University_Polymorphism\University_Polymorphism\obj\Debug\net10.0\Universi.D2E542B6.Up2Date
